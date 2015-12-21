@@ -1,0 +1,19 @@
+{
+  "name": "teamcity-reporter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "teamcity",
+    "reporter"
+  ],
+  "description": "Teamcity tests reporter API",
+  "author": "Dmitry Rychkov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/my_package.git"
+  },
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
