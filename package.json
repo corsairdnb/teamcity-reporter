@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/my_package.git"
+    "url": "https://github.com/corsairdnb/teamcity-reporter.git"
   },
   "dependencies": {
     "through2": "^2.0.0"

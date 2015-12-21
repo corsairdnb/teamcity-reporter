@@ -1,1 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
+syntax: glob
+
+.idea
+node_modules
